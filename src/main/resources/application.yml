@@ -1,0 +1,12 @@
+#spring:
+#  application:
+#    name: SpringMVC
+#    package:
+#  datasource:
+
+
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/views/
+      suffix: .jsp
